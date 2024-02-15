@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>CSharpTest.Net.Library.Test</RootNamespace>
     <AssemblyName>CSharpTest.Net.Collections.Test</AssemblyName>
-    <TargetFrameworkVersion>v6.0.419</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
