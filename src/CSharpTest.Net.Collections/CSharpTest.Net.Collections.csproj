@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CSharpTest.Net</RootNamespace>
     <AssemblyName>CSharpTest.Net.Collections</AssemblyName>
-    <TargetFrameworkVersion>v2.1.x</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v2.1.X</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>

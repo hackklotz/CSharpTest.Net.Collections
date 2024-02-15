@@ -9,7 +9,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>CSharpTest.Net.BPlusTree.Test</RootNamespace>
     <AssemblyName>CSharpTest.Net.BPlusTree.Test</AssemblyName>
-    <TargetFrameworkVersion>v2.1.x</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v2.1.X</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
   </PropertyGroup>
